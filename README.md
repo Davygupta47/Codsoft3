@@ -44,12 +44,15 @@ Results
 The model results include metrics and confusion matrices for each algorithm, helping determine the most effective model for predicting customer churn.
 
 Sample Confusion Matrix:
+
 ![image](https://github.com/user-attachments/assets/517a057e-3186-4055-b6c3-6406cf2cd530)
 
 Sample Confusion Matrix:
+
 ![image](https://github.com/user-attachments/assets/32b22d68-4cc3-4a87-8c0d-8ffd3a9a9abe)
 
 Sample Confusion Matrix:
+
 ![image](https://github.com/user-attachments/assets/67e3438d-b7d4-407c-93c2-ce1111d518c0)
 
 
