@@ -43,18 +43,35 @@ ROC-AUC: To measure the model’s ability to distinguish between churned and ret
 Results
 The model results include metrics and confusion matrices for each algorithm, helping determine the most effective model for predicting customer churn.
 
-Sample Confusion Matrix:
+Plots:
 
-![image](https://github.com/user-attachments/assets/517a057e-3186-4055-b6c3-6406cf2cd530)
+![image](https://github.com/user-attachments/assets/3813eb18-e03f-439f-8e44-9c9f6567bc80)
 
-Sample Confusion Matrix:
+![image](https://github.com/user-attachments/assets/5bfa34d0-5bd8-4567-a5ac-25a9961da070)
 
-![image](https://github.com/user-attachments/assets/32b22d68-4cc3-4a87-8c0d-8ffd3a9a9abe)
+![image](https://github.com/user-attachments/assets/117b2e2f-bb58-45dd-934f-ca7dc79deb2a)
 
-Sample Confusion Matrix:
+![image](https://github.com/user-attachments/assets/60c683d9-6132-4f0a-ae60-0bca3244fef0)
 
-![image](https://github.com/user-attachments/assets/67e3438d-b7d4-407c-93c2-ce1111d518c0)
+![image](https://github.com/user-attachments/assets/17ca4604-725d-4ddf-a653-d9a834f70878)
 
+![image](https://github.com/user-attachments/assets/bb7524df-3162-4bc8-88f9-c785ec3056ed)
+
+![image](https://github.com/user-attachments/assets/c58b957e-0bc0-47e9-9ed8-886c97b37caa)
+
+![image](https://github.com/user-attachments/assets/3348f1ea-80f1-43c5-9294-e739db624beb)
+
+![image](https://github.com/user-attachments/assets/3ade7e89-ad6f-4346-86b6-ce636d192872)
+
+![image](https://github.com/user-attachments/assets/27405873-1358-44e4-a0e5-c670318120ef)
+
+![image](https://github.com/user-attachments/assets/2e4055bd-9335-452f-b81a-35137e5e8da9)
+
+![image](https://github.com/user-attachments/assets/02798540-49cc-43fc-a94d-c44e00fd27c2)
+
+![image](https://github.com/user-attachments/assets/27e95758-c1ec-4c9b-8d1b-11126a341735)
+
+![image](https://github.com/user-attachments/assets/a4eafcd0-af4f-4e68-a914-716a379749c0)
 
 Contributing
 Contributions are welcome! Please feel free to submit a pull request.
